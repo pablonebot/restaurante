@@ -1,0 +1,41 @@
+{"menu": {
+    "items": [
+        {
+            "name":"coca cola",
+            "qty": 20,
+            "category":"bebida",
+            "sizes":["pequeña","grande","gigante"]
+        },
+        {
+            "name":"pepsi",
+            "qty": 20,
+            "category":"bebida",
+            "sizes":["pequeña","grande"]
+        },
+        {
+            "name":"agua",
+            "qty": 20,
+            "category":"bebida",
+            "sizes":["pequeña","grande"]
+        },
+        {
+            "name":"hamburguesa",
+            "qty": 40,
+            "category":"comida",
+            "sizes":["pequeña","grande"]
+        },
+        {
+            "name":"patatas fritas",
+            "qty": 20,
+            "category":"comida",
+            "sizes":["pequeña","grande"]
+        },
+        {
+            "name":"pizza",
+            "qty": 20,
+            "category":"comida",
+            "sizes":["pequeña","grande"]
+        }
+    ]
+   
+}}
